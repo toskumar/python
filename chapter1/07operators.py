@@ -1,3 +1,4 @@
+# arithmetic operation
 a = 10
 b = 3
 c = a + b
@@ -15,3 +16,8 @@ c = a%b
 print("modulus ", c)
 c = a**b
 print("exponent ", c)
+
+print("String concat ", "Hello" + " World")
+print("String repeater ", "Hello " * 3)
+
+print("List addition " , [1,2,3] + [4,5,6])
